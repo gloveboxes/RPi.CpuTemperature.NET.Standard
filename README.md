@@ -1,0 +1,1 @@
+# RPi.CpuTemperature.NET.Standard
